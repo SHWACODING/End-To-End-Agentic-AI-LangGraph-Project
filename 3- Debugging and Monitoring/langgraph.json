@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "tool_agent": "./Agent_Monitoring.py:tool_agent"
+    },
+    "env": "../.env"
+}
