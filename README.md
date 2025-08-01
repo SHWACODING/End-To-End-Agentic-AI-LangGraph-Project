@@ -1,2 +1,2 @@
-# End-To-End-LangGraph-and-MCP-Agentic-AI-Project
+# End-To-End-Agentic-AI-LangGraph-Project
 This Is An End-To-End Agentic AI Project using LangGraph With MCP

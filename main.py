@@ -1,5 +1,5 @@
 def main():
-    print("Hello from end-to-end-langgraph-and-mcp-agentic-ai-project!")
+    print("Hello from end-to-end-agentic-ai-langgraph-project!")
 
 
 if __name__ == "__main__":

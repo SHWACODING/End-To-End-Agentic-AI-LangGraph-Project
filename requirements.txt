@@ -2,6 +2,7 @@ langgraph
 langchain
 langsmith
 python-dotenv
+langchain-community
 langchain-groq 
-langchain_tavily
+langchain-tavily
 langgraph-cli[inmem]
